@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;}
+canvas{
+   background-color: bisque;
+}
+body{
+    text-align: center;
+    box-sizing: border-box;
+}
